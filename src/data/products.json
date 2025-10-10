@@ -1,0 +1,10 @@
+[
+  { "id": "p1", "name": "Huile d'olive extra vierge 750ml", "price": 120.0 , "quantity": 15},
+  { "id": "p2", "name": "Huile d'olive extra vierge 1L", "price": 150.0 ,"quantity": 20},
+  { "id": "p3", "name": "Olives Beldi naturelles 500g", "price": 35.0 , "quantity": 13},
+  { "id": "p4", "name": "Tapenade d'olives noires 200g", "price": 45.0 , "quantity": 22},
+  { "id": "p5", "name": "Miel naturel 500g", "price": 80.0 , "quantity": 19},
+  { "id": "p6", "name": "Savon artisanal à l'huile d'olive", "price": 25.0 , "quantity": 50}
+]
+
+
